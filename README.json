@@ -1,7 +1,419 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Please find in the table below some link and information about histopathology dataset that are publicly available.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adipocyte [94]",
+          "description": "skin H&E data, paper 200 patches images+mask cell detection patch (120x150) 40x 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98114529,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-05-23T14:02:06Z",
+            "owner": "ieee8023",
+            "repo": "countception",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADP [2]",
+          "description": "multiple multiple (most H&E) data, github, paper Train: 14.134, Valid: 1767, Test: 1767 (100 wsi) images + 57 hierarchical HTTs (histological tissue type) multi-label (3) classification (hierarchy) patch (1088x1088) 40x - Huron TissueScope LE1.2 WSI 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179083741,
+            "language": "Python",
+            "last_commit": "2020-06-22T16:03:59Z",
+            "owner": "mahdihosseini",
+            "repo": "ADP",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAMEL [63]",
+          "description": "Colon data, paper 177 wsi (156 with adenoma) image + label (binary) classi patch (1280x1280) 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201247038,
+            "language": null,
+            "last_commit": "2019-10-30T13:34:06Z",
+            "owner": "ThoroughImages",
+            "repo": "CAMEL",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cellseg [13]",
+          "description": "multiple multiple data, paper, github images + limited labeled patches instance (cell) segmentation wsi 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 506011728,
+            "language": "Python",
+            "last_commit": "2024-05-07T17:19:23Z",
+            "owner": "JunMa11",
+            "repo": "NeurIPS-CellSeg",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaoyang [57]",
+          "description": "Colon H&E data, github, paper Train: 111 normal, 842 serrated, 1404 adenocarcinoma, 664 adenoma, Test: 705 normal, 321 serrated, 840 adenocarcinoma, 273 adenoma samples images + label classi patch (512×512) 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415047492,
+            "language": "Python",
+            "last_commit": "2023-10-10T11:28:42Z",
+            "owner": "bupt-ai-cz",
+            "repo": "HSA-NRL",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoNIC 2022 [14]",
+          "description": "Colon H&E data, github, paper 4981 patch with 431.913 nuclei of 6 types image + instance seg mask + classi mask seg + classi + reg patch (256x256) 20x 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428436312,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-19T19:00:01Z",
+            "owner": "TissueImageAnalytics",
+            "repo": "CoNIC",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryoNuSeg [21]",
+          "description": "multiple (10: adrenal gland, larynx, lymph nodes, mediastinum, pancreas, pleura, skin, testes, thymus, and thyroid gland) H&E data, github, paper 8000 nuclei from 30 patches (from 30 wsi) images + segmentation masks + binary labels nuclei segmentation patch (512x512) 40x (from TCGA) 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226118245,
+            "language": "MATLAB",
+            "last_commit": "2023-02-08T15:22:32Z",
+            "owner": "masih4",
+            "repo": "CryoNuSeg",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiagSeg [58]",
+          "description": "Prostate H&E data, paper >2.6M patches (from 430 scans) 430 fully annotated scans, 4675 scans with binary diagnosis, and 46 scans with diagnosis given independently by a group of 9 histopathologists classi (256×256) patch 5x, 10x, 20x, 40x - Hamamatsu C12000-22 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307502455,
+            "language": "Python",
+            "last_commit": "2024-05-30T16:25:14Z",
+            "owner": "michalkoziarski",
+            "repo": "DiagSet",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Follicle countring [98]",
+          "description": "Ovary H&E data, paper, code 643 cut slices (from 92 mice) images + label Object Detection (3 classes) ROIs Panoramic 250 Flash, Slide Scanner (3DHISTECH Ltd. HUNGARY) 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 812441154,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-29T10:02:44Z",
+            "owner": "vincentblot28",
+            "repo": "follicle-assessment",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gleason_CNN [25]",
+          "description": "Prostate H&E data, github, paper 5 tissue microarrays (200-300 spots) images + patch and pixel annotation classi patch (3100x3100) 40x - NanoZoomer-XR Digital slide scanner, Hamamatsu 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124226304,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-07-27T11:51:24Z",
+            "owner": "eiriniar",
+            "repo": "gleason_CNN",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HunCRC [71]",
+          "description": "Colon H&E data, github, github, paper 101,389 patches - 200 wsi (from 200 patients) images + label classi (10) wsi - patch (512x512) 40x - 3DHistech Pannoramic 1000 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191993638,
+            "language": "Java",
+            "last_commit": "2023-12-01T08:03:29Z",
+            "owner": "qbeer",
+            "repo": "qupath-binarymask-extension",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Janowczyk et al. [28]",
+          "description": "Breast H&E data, github 143 images (12.000 nuclei) + masks semantic seg Patch (2000x2000) 40x 2015",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29023035,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-16T18:21:09Z",
+            "owner": "choosehappy",
+            "repo": "public",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kather et al. [29]",
+          "description": "Colon H&E data, github, paper Train: 100k (86 wsi), Valid: 7180 (25 wsi) image + label (9 tissue type) classi patch (224x224) 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147717277,
+            "language": "MATLAB",
+            "last_commit": "2020-04-16T21:20:14Z",
+            "owner": "jnkather",
+            "repo": "deep-stroma-histology",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kather et al. [30]",
+          "description": "Colon H&E data, data, data, github, paper seg (tumor detection) + classi (MSI detection) 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170163240,
+            "language": "MATLAB",
+            "last_commit": "2019-07-01T08:59:31Z",
+            "owner": "jnkather",
+            "repo": "MSIfromHE",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LC25000 [54]",
+          "description": "multiple (lung, colon) H&E data, paper 25.000 (5 classes) images + label patch (768x768) classi 60x 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228096090,
+            "language": null,
+            "last_commit": "2020-09-04T11:32:32Z",
+            "owner": "tampapath",
+            "repo": "lung_colon_image_set",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LubLung [97]",
+          "description": "Lung H&E data, paper 23,199 patches (9 classes) images + labels classi patch (87x87) 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411460324,
+            "language": null,
+            "last_commit": "2021-09-28T23:22:54Z",
+            "owner": "animgoeth",
+            "repo": "LubLung",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MBM [94]",
+          "description": "bone H&E data, paper 44 patches images+mask cell detection patch (600x600) 40x 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98114529,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-05-23T14:02:06Z",
+            "owner": "ieee8023",
+            "repo": "countception",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoNuSeg [37a], [37b]",
+          "description": "multiple (7) H&E data, github, paper Train: 30, Test: 14 images (Train: 22.000 nuclei, Test: 7000) + masks instance seg Patch (1000x1000) 40x (from TCGA) 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194320219,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-22T19:37:10Z",
+            "owner": "ruchikaverma-iitg",
+            "repo": "MoNuSeg",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAIP2020 [41]",
+          "description": "Colon H&E data, github Train: 47, Valid: 31, Test: 40 images + binary mask cancer seg wsi 40x - Aperio AT2 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242901680,
+            "language": "Python",
+            "last_commit": "2020-08-26T07:59:13Z",
+            "owner": "wisepaip",
+            "repo": "paip2020",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PatchCamelyon [45a], [45b]",
+          "description": "Lymph node H&E data, github paper 327.680 images + binary label classi Patch (96x96) 10x 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135140095,
+            "language": "Python",
+            "last_commit": "2024-01-31T14:06:01Z",
+            "owner": "basveeling",
+            "repo": "pcam",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegLungTCGA [97]",
+          "description": "Lung H&E data, paper 454 images + file mapping info images segmentation (9 classes) segmented (87x87 patches) wsi (from TCGA) 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411466379,
+            "language": null,
+            "last_commit": "2022-11-11T14:50:24Z",
+            "owner": "animgoeth",
+            "repo": "SegLungTCGA",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegPC-2021 [46a], [46b], [46c], [46d]",
+          "description": "Blood Jenner-Giemsa data, github, report 775 images, Train: 298, Valid: 200, Test: 277 images + nucleus and cytoplasma plasma cell segmentation 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352649796,
+            "language": "Python",
+            "last_commit": "2021-04-13T06:07:42Z",
+            "owner": "dsciitism",
+            "repo": "SegPC-2021",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPIDER [101]",
+          "description": "Multiple (Skin, Colorectal, Thorax) H&E data, paper Skin: 159,854 patches, Colorectal: 77,182 patches, Thorax: 78,307 patches images + labels classification patch (1120x1120) 20x magnification 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 941950323,
+            "language": null,
+            "last_commit": "2025-04-07T12:30:52Z",
+            "owner": "histai",
+            "repo": "SPIDER",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCGA-TIL-WSI [76]",
+          "description": "Multiple (13) H&E data, github, paper 5200 (from TCGA) 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90036671,
+            "language": "Python",
+            "last_commit": "2021-01-22T21:20:51Z",
+            "owner": "SBU-BMI",
+            "repo": "u24_lymphocyte",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TIGER [49]",
+          "description": "Breast H&E data, paper, github, github WSIROIS: 195 wsi, WSIBULK: 93, WSITILS: 82 images + rois + label (7) detection + segmentation + TILs scoring wsi (from TCGA, RUMC, JB) 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467511431,
+            "language": "Python",
+            "last_commit": "2022-08-01T13:49:53Z",
+            "owner": "DIAGNijmegen",
+            "repo": "pathology-tiger-baseline",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TissueNet",
+          "description": "Uterine cervix H&E data, github 1,016 WSIs; 5,926 patches (1200x1200 px) images + annotation + metadata + labels classi (4) wsi + patches MIRAX, Aperio, Hamamatsu 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313654312,
+            "language": "Python",
+            "last_commit": "2023-09-07T00:53:05Z",
+            "owner": "drivendataorg",
+            "repo": "tissuenet-cervical-biopsies",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniToPatho [56]",
+          "description": "Colon H&E data, paper 9.536 from 292 wsi images + label (6 classes) classi patch 20x - Hamamatsu Nanozoomer S210 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337362995,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-18T14:53:57Z",
+            "owner": "EIDOSLAB",
+            "repo": "UNITOPATHO",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T00:43:12.184Z",
+    "last_updated": "2026-08-24T14:25:29.034Z",
     "original_repository": "maduc7/Histopathology-Datasets",
     "original_repository_id": 516740799,
     "original_repository_sha": "f97f92ec37dc24d8267cc0a6feef34a271154ab5",
