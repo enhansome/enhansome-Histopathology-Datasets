@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "CAMEL [63]",
-          "description": "Colon data, paper 177 wsi (156 with adenoma) image + label (binary) classi patch (1280x1280) 2019",
+          "description": "Colon  data, paper 177 wsi (156 with adenoma) image + label (binary) classi patch (1280x1280)  2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "Cellseg [13]",
-          "description": "multiple multiple data, paper, github images + limited labeled patches instance (cell) segmentation wsi 2022",
+          "description": "multiple multiple data, paper, github  images + limited labeled patches instance (cell) segmentation wsi  2022",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "Chaoyang [57]",
-          "description": "Colon H&E data, github, paper Train: 111 normal, 842 serrated, 1404 adenocarcinoma, 664 adenoma, Test: 705 normal, 321 serrated, 840 adenocarcinoma, 273 adenoma samples images + label classi patch (512×512) 2021",
+          "description": "Colon H&E data, github, paper Train: 111 normal, 842 serrated, 1404 adenocarcinoma, 664 adenoma, Test: 705 normal, 321 serrated, 840 adenocarcinoma, 273 adenoma samples images + label classi patch (512×512)  2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "DiagSeg [58]",
-          "description": "Prostate H&E data, paper >2.6M patches (from 430 scans) 430 fully annotated scans, 4675 scans with binary diagnosis, and 46 scans with diagnosis given independently by a group of 9 histopathologists classi (256×256) patch 5x, 10x, 20x, 40x - Hamamatsu C12000-22 2021",
+          "description": "Prostate H&E data, paper >2.6M patches (from 430 scans) 430 fully annotated scans, 4675 scans with binary diagnosis, and 46 scans with diagnosis given independently by a group of 9 histopathologists  classi (256×256) patch 5x, 10x, 20x, 40x - Hamamatsu C12000-22 2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "Kather et al. [29]",
-          "description": "Colon H&E data, github, paper Train: 100k (86 wsi), Valid: 7180 (25 wsi) image + label (9 tissue type) classi patch (224x224) 2018",
+          "description": "Colon H&E data, github, paper Train: 100k (86 wsi), Valid: 7180 (25 wsi) image + label (9 tissue type) classi patch (224x224)  2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "Kather et al. [30]",
-          "description": "Colon H&E data, data, data, github, paper seg (tumor detection) + classi (MSI detection) 2019",
+          "description": "Colon H&E data, data, data, github, paper   seg (tumor detection) + classi (MSI detection)   2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -231,7 +231,7 @@
         {
           "node_type": "item",
           "title": "LubLung [97]",
-          "description": "Lung H&E data, paper 23,199 patches (9 classes) images + labels classi patch (87x87) 2021",
+          "description": "Lung H&E data, paper 23,199 patches (9 classes) images + labels classi patch (87x87)  2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,7 +321,7 @@
         {
           "node_type": "item",
           "title": "SegPC-2021 [46a], [46b], [46c], [46d]",
-          "description": "Blood Jenner-Giemsa data, github, report 775 images, Train: 298, Valid: 200, Test: 277 images + nucleus and cytoplasma plasma cell segmentation 2021",
+          "description": "Blood Jenner-Giemsa data, github, report 775 images, Train: 298, Valid: 200, Test: 277 images + nucleus and cytoplasma plasma cell segmentation   2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -351,7 +351,7 @@
         {
           "node_type": "item",
           "title": "TCGA-TIL-WSI [76]",
-          "description": "Multiple (13) H&E data, github, paper 5200 (from TCGA) 2019",
+          "description": "Multiple (13) H&E data, github, paper 5200    (from TCGA) 2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:42:32.375Z",
+    "last_updated": "2026-08-25T06:14:09.298Z",
     "original_repository": "maduc7/Histopathology-Datasets",
     "original_repository_id": 516740799,
     "original_repository_sha": "f97f92ec37dc24d8267cc0a6feef34a271154ab5",
