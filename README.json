@@ -413,9 +413,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:51:41.631Z",
-    "original_repository": "maduc7/Histopathology-Datasets",
-    "original_repository_id": 516740799,
+    "last_updated": "2026-08-27T11:42:55.374Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 516740799,
+      "language": null,
+      "last_commit": "2026-03-06T20:42:26Z",
+      "owner": "maduc7",
+      "repo": "Histopathology-Datasets",
+      "stars": 570
+    },
     "original_repository_sha": "f97f92ec37dc24d8267cc0a6feef34a271154ab5",
     "enhanced_repository": "enhansome/enhansome-Histopathology-Datasets",
     "enhanced_repository_description": null,
