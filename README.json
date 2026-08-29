@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Count-Ception: Counting by Fully Convolutional Redundant Counting",
+            "homepage": "https://arxiv.org/abs/1703.08710",
             "id": 98114529,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-05-23T14:02:06Z",
+            "open_issues": 0,
             "owner": "ieee8023",
             "repo": "countception",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "cell-biology",
+              "cell-counting",
+              "computer-vision",
+              "deep-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -26,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atlas of Digital Pathology for Deep Learning [CVPR2019]",
+            "homepage": null,
             "id": 179083741,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-22T16:03:59Z",
+            "open_issues": 1,
             "owner": "mahdihosseini",
             "repo": "ADP",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "computational-pathology",
+              "database",
+              "dataset",
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The colorectal adenoma dataset with image-level labels for weakly supervised learning.",
+            "homepage": null,
             "id": 201247038,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-30T13:34:06Z",
+            "open_issues": 1,
             "owner": "ThoroughImages",
             "repo": "CAMEL",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Naive baseline for microscopy image segmentation challenge in NeurIPS 2022",
+            "homepage": null,
             "id": 506011728,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-07T17:19:23Z",
+            "open_issues": 2,
             "owner": "JunMa11",
             "repo": "NeurIPS-CellSeg",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -74,12 +105,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hard Sample Aware Noise Robust Learning forHistopathology Image Classification",
+            "homepage": null,
             "id": 415047492,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-10T11:28:42Z",
+            "open_issues": 3,
             "owner": "bupt-ai-cz",
             "repo": "HSA-NRL",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "deep-learning",
+              "histopathology-images",
+              "image-classification",
+              "label-noise",
+              "pytorch-implementation"
+            ]
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -90,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoNIC Challenge",
+            "homepage": null,
             "id": 428436312,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-02-19T19:00:01Z",
+            "open_issues": 4,
             "owner": "TissueImageAnalytics",
             "repo": "CoNIC",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -106,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository includes the codes and descriptions to create a fully annotated dataset of nuclei from cryosectioned histological samples. ",
+            "homepage": null,
             "id": 226118245,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2023-02-08T15:22:32Z",
+            "open_issues": 1,
             "owner": "masih4",
             "repo": "CryoNuSeg",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -122,12 +174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DiagSet: a dataset for prostate cancer histopathological image classification",
+            "homepage": null,
             "id": 307502455,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-30T16:25:14Z",
+            "open_issues": 6,
             "owner": "michalkoziarski",
             "repo": "DiagSet",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -138,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 812441154,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-06-29T10:02:44Z",
+            "open_issues": 0,
             "owner": "vincentblot28",
             "repo": "follicle-assessment",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -154,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 124226304,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2019-07-27T11:51:24Z",
+            "open_issues": 2,
             "owner": "eiriniar",
             "repo": "gleason_CNN",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -170,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Research code",
+            "homepage": "https://www.nature.com/articles/s41597-022-01450-y",
             "id": 191993638,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-12-01T08:03:29Z",
+            "open_issues": 0,
             "owner": "qbeer",
             "repo": "qupath-binarymask-extension",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -186,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 29023035,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-12-16T18:21:09Z",
+            "open_issues": 0,
             "owner": "choosehappy",
             "repo": "public",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -202,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convolutional neural networks for extracting a \"deep stroma score\" from histological images of human cancer",
+            "homepage": null,
             "id": 147717277,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2020-04-16T21:20:14Z",
+            "open_issues": 4,
             "owner": "jnkather",
             "repo": "deep-stroma-histology",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -218,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "predict microsatellite status from hematoxylin-eosin histology of gastrointestinal cancer",
+            "homepage": null,
             "id": 170163240,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2019-07-01T08:59:31Z",
+            "open_issues": 6,
             "owner": "jnkather",
             "repo": "MSIfromHE",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -234,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lung and Colon Cancer Histopathological Image Dataset",
+            "homepage": null,
             "id": 228096090,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-04T11:32:32Z",
+            "open_issues": 9,
             "owner": "tampapath",
             "repo": "lung_colon_image_set",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -250,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 411460324,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-28T23:22:54Z",
+            "open_issues": 0,
             "owner": "animgoeth",
             "repo": "LubLung",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -266,12 +363,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Count-Ception: Counting by Fully Convolutional Redundant Counting",
+            "homepage": "https://arxiv.org/abs/1703.08710",
             "id": 98114529,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-05-23T14:02:06Z",
+            "open_issues": 0,
             "owner": "ieee8023",
             "repo": "countception",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "cell-biology",
+              "cell-counting",
+              "computer-vision",
+              "deep-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -282,12 +390,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains my implementations of the algorithms which we used for evaluation of the MoNuSeg challenge at MICCAI 2018.",
+            "homepage": "https://monuseg.grand-challenge.org/",
             "id": 194320219,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-07-22T19:37:10Z",
+            "open_issues": 0,
             "owner": "ruchikaverma-iitg",
             "repo": "MoNuSeg",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "monuseg",
+              "monuseg-challenge",
+              "nuclei-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -298,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 242901680,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-26T07:59:13Z",
+            "open_issues": 10,
             "owner": "wisepaip",
             "repo": "paip2020",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -314,12 +436,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The PatchCamelyon (PCam) deep learning classification benchmark.",
+            "homepage": null,
             "id": 135140095,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-31T14:06:01Z",
+            "open_issues": 7,
             "owner": "basveeling",
             "repo": "pcam",
-            "stars": 529
+            "stars": 529,
+            "topics": [
+              "benchmark",
+              "dataset",
+              "deep-learning",
+              "deep-learning-datasets",
+              "pathology"
+            ]
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -330,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 411466379,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-11T14:50:24Z",
+            "open_issues": 0,
             "owner": "animgoeth",
             "repo": "SegLungTCGA",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -346,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transformer Assisted Convolutional Neural Network for Cell Instance Segmentation [SegPC-2021]",
+            "homepage": null,
             "id": 352649796,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-13T06:07:42Z",
+            "open_issues": 2,
             "owner": "dsciitism",
             "repo": "SegPC-2021",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -362,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SPIDER: A multi-organ pathology dataset with expert annotations and pre-trained models for AI-driven research. Available on Hugging Face 🤗.",
+            "homepage": "https://huggingface.co/histai",
             "id": 941950323,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-04-07T12:30:52Z",
+            "open_issues": 2,
             "owner": "histai",
             "repo": "SPIDER",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -378,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 90036671,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-01-22T21:20:51Z",
+            "open_issues": 5,
             "owner": "SBU-BMI",
             "repo": "u24_lymphocyte",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -394,12 +547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 467511431,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-01T13:49:53Z",
+            "open_issues": 1,
             "owner": "DIAGNijmegen",
             "repo": "pathology-tiger-baseline",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -410,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Winners of the TissueNet: Detect Lesions in Cervical Biopsies competition ",
+            "homepage": null,
             "id": 313654312,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-07T00:53:05Z",
+            "open_issues": 3,
             "owner": "drivendataorg",
             "repo": "tissuenet-cervical-biopsies",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         },
@@ -426,12 +589,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset of 9536 H&E-stained patches for colorectal polyps classification and adenomas grading | ICIP21 https://doi.org/10.1109/ICIP42928.2021.9506198",
+            "homepage": "https://ieee-dataport.org/open-access/unitopatho",
             "id": 337362995,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-05-18T14:53:57Z",
+            "open_issues": 1,
             "owner": "EIDOSLAB",
             "repo": "UNITOPATHO",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "cancer",
+              "data",
+              "health",
+              "histopathological-image",
+              "histopathology",
+              "histopathology-images",
+              "medical-image-processing",
+              "medical-images",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
         }
@@ -440,15 +618,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T08:03:22.874Z",
+    "last_updated": "2026-08-29T04:43:45.967Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Ressources of histopathology datasets",
+      "homepage": null,
       "id": 516740799,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-06T20:42:26Z",
+      "open_issues": 7,
       "owner": "maduc7",
       "repo": "Histopathology-Datasets",
-      "stars": 570
+      "stars": 570,
+      "topics": [
+        "awesome-list",
+        "datasets",
+        "histology-images",
+        "histopathology",
+        "histopathology-images",
+        "machine-learning",
+        "ressources"
+      ]
     },
     "original_repository_sha": "f97f92ec37dc24d8267cc0a6feef34a271154ab5",
     "enhanced_repository": "enhansome/enhansome-Histopathology-Datasets",
