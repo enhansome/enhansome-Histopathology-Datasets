@@ -180,7 +180,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-05-30T16:25:14Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "michalkoziarski",
             "repo": "DiagSet",
             "stars": 41,
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T02:05:10.924Z",
+    "last_updated": "2026-09-05T02:05:43.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ressources of histopathology datasets",
@@ -630,7 +630,7 @@
       "open_issues": 7,
       "owner": "maduc7",
       "repo": "Histopathology-Datasets",
-      "stars": 570,
+      "stars": 571,
       "topics": [
         "awesome-list",
         "datasets",
