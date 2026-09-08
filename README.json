@@ -330,7 +330,7 @@
             "open_issues": 9,
             "owner": "tampapath",
             "repo": "lung_colon_image_set",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:58:30.045Z",
+    "last_updated": "2026-09-08T02:10:04.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ressources of histopathology datasets",
