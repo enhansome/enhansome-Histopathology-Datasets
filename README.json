@@ -309,7 +309,7 @@
             "open_issues": 6,
             "owner": "jnkather",
             "repo": "MSIfromHE",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T02:17:19.353Z",
+    "last_updated": "2026-09-19T02:19:45.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ressources of histopathology datasets",
