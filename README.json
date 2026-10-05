@@ -46,7 +46,7 @@
             "open_issues": 1,
             "owner": "mahdihosseini",
             "repo": "ADP",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "computational-pathology",
               "database",
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T03:28:24.805Z",
+    "last_updated": "2026-10-05T03:07:32.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ressources of histopathology datasets",
