@@ -445,7 +445,7 @@
             "open_issues": 7,
             "owner": "basveeling",
             "repo": "pcam",
-            "stars": 530,
+            "stars": 529,
             "topics": [
               "benchmark",
               "dataset",
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T03:39:07.195Z",
+    "last_updated": "2026-10-09T03:44:40.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ressources of histopathology datasets",
