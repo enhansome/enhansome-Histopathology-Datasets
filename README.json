@@ -162,7 +162,7 @@
             "open_issues": 1,
             "owner": "masih4",
             "repo": "CryoNuSeg",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T08:03:22.874Z"
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T03:08:48.829Z",
+    "last_updated": "2026-10-29T03:34:29.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ressources of histopathology datasets",
