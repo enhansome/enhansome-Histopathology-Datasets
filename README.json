@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T03:54:35.462Z",
+    "last_updated": "2026-11-17T05:47:24.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ressources of histopathology datasets",
@@ -630,7 +630,7 @@
       "open_issues": 8,
       "owner": "maduc7",
       "repo": "Histopathology-Datasets",
-      "stars": 579,
+      "stars": 580,
       "topics": [
         "awesome-list",
         "datasets",
